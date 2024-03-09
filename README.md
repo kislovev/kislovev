@@ -24,12 +24,12 @@
 ### 🛠 Инструменты:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="azuresqldatabase" alt="azuresqldatabase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
