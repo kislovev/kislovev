@@ -25,7 +25,7 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="azuresqldatabase" alt="azuresqldatabase" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="azuresqldatabase" alt="azuresqldatabase" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
 <!--   <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
